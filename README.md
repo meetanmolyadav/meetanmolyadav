@@ -1,8 +1,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=abhishekyadav001&style=for-the-badge"/>
-<h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
+<h1 align="center">Hi 👋, I'm Anmol Yadav</h1>
 
-!['image of banner'](https://github.com/abhishekyadav001/abhishekyadav001/blob/main/My%20banner.png) <br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=59&pause=1000&random=false&width=1200&height=100&lines=Full+Stack+Web+Developer;MERN+Stack+Web+Developer)](https://git.io/typing-svg)
 
